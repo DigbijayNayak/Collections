@@ -12,5 +12,6 @@ public class Demo {
         List<Integer> list1 = new ArrayList<>();
         List<String> list2 = new LinkedList<>();
         List<Float> list3 = new Vector<>();
+        System.out.println("Hello World");
     }
 }
